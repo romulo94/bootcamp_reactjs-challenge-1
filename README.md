@@ -16,7 +16,7 @@ Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layo
 
 ---
 
-![Feed](/assets/FinalVersion.png.png)
+![Feed](/assets/FinalVersion.png)
 
 ## Regras
 
